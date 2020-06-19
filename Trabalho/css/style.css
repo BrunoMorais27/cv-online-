@@ -1,0 +1,18 @@
+.bg-image {
+    background: url('../img/background.png');
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.5);
+    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px);  
+}
+
+.article-images {
+    max-width: 500px;
+    max-height:1200px;
+}
+
+.brand-icon {
+    width: 100px;
+}

@@ -11,21 +11,21 @@ console.log  ("O SEU IMC É " + IMC )
 if (IMC < 17 ) {
       console.log  ("Muito Abaixo do peso")
 }
-else if (IMC > 17 <= 18.5  ) {
+else if (IMC > 17 < 18.5 ) {
     console.log ("abaixo do peso")
 }
-else if (IMC >= 18.50 < 25 ) {
+else if (IMC > 18.50 < 25 ) {
     console.log ("peso normal")
 }
-else if (IMC >= 25 < 30) {
+else if (IMC > 25 < 30) {
     console.log ("Acima do peso")
 }
-else if (IMC >= 30 < 35) {
+else if (IMC > 30 < 35) {
     console.log ("Obesidade I")
 }
-else if (IMC >= 35 < 39) {
+else if (IMC > 35 < 39) {
     console.log ("Obesidade II")
 }
-else if (imc >= 40) {
+else {
     console.log ("Obesidade III")
 }

@@ -1,0 +1,24 @@
+Algoritmo :
+
+1.  Quando o usuario realizar o contato enviar: Bem vindo(a)!.
+
+2.  Em sequencia enviar : Por favro, me diga seu preso em kg e sua em cm nesta ordem.
+
+3.  Após coletar os dados, dividir o dado 1 pelo dado 2 e o dado 2 pelo dado 2.
+
+4.  Entregar o resultado da operação ao usuário.
+
+5.  Se o resultado < que 16, enviar : Subpeso Severo
+
+6.  Se o resultado > 16 < 19,9  enviar : Subpeso 
+
+7.  Se o resultado > 20 < 24,9 enviar : Normal
+
+8.  Se o resultado > 25 < 29,9 enviar : Sobrepeso
+
+9.  Se o resultado > 30 < 39,9 enviar : Obeso
+
+10. Se o resultado > 40, enviar : Obeso Mórbido
+
+11.Ao repassar as informações solicitadas enviar : Disponha.
+
